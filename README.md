@@ -60,3 +60,4 @@ I have uploaded prototypes of some of my automations. All real data from the ope
 
 - **[Excel VBA Task Tracker](https://github.com/warmijoswa-prog/excel-vba-task-tracker)**: form-driven workbook that tracks tasks, follow-ups and closures, with automatic sorting.
 - **[Excel VBA Cell KPI Viewer](https://github.com/warmijoswa-prog/excel-vba-cell-kpi-viewer)**: charts any KPI per cell of a base station, querying the Oracle performance database from user-selected parameters.
+- **[Excel VBA Base Station Degradation Detector](https://github.com/warmijoswa-prog/excel-site-degradation-detector)**: ranks base stations by new KPI degradation, comparing a short recent period against a long past one, and charts any site and KPI in one click.
