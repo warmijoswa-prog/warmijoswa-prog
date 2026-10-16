@@ -32,12 +32,12 @@ I automate processes. Over 10+ years at Telefónica I replaced manual, repetitiv
 I completed the Microsoft Power BI Data Analyst program on Coursera and the MeasureUp practice tests for the Microsoft PL-300 exam, covering every course and the skills each one adds:
 
 - **Preparing Data for Analysis with Microsoft Excel:** data cleaning, formulas and preparation of data for analysis
-- **Harnessing the Power of Data with Power BI:** Power BI Desktop, Power BI Service and the Power BI workflow
-- **Extract, Transform and Load Data in Power BI:** Power Query Editor, M language, Import, DirectQuery and Dual storage modes, error handling
-- **Data Modeling in Power BI:** relationships, data hierarchies, DAX measures, calculated columns and tables, time intelligence functions, calculation groups and calculation items, Performance Analyzer
-- **Data Analysis and Visualization with Power BI:** drill-through, tooltip pages, visual interactions, data labels, Q&A, Quick Insights, Key Influencers, Decomposition Tree and Python visuals
+- **Harnessing the Power of Data with Power BI:** Power BI Desktop, Power BI Service and the end-to-end workflow: connect, transform, model, visualize, publish and share
+- **Extract, Transform and Load Data in Power BI:** Power Query Editor, M language, import, directquery and dual storage modes, error handling
+- **Data Modeling in Power BI:** relationships, data hierarchies, DAX measures, calculated columns and tables, time intelligence functions, calculation groups and calculation items, performance analyzer
+- **Data Analysis and Visualization with Power BI:** drill-through, tooltip pages, visual interactions, data labels, Q&A, quick insights, key influencers, decomposition tree and Python visuals
 - **Creative Designing in Power BI:** dashboard design, report layout and mobile view
-- **Deploy and Maintain Power BI Assets and Capstone Project:** creating and publishing workspaces and apps, Publish to web, row-level security (RLS, by user or role), object-level security (OLS) and permissions
+- **Deploy and Maintain Power BI Assets and Capstone Project:** creating and publishing workspaces and apps, publish to web, row-level security (RLS, by user or role), object-level security (OLS) and permissions
 - **Microsoft PL-300 Exam Preparation and Practice:** review of all exam domains with MeasureUp practice tests
 
 I have uploaded several examples of my Power BI work to this profile.
